@@ -1,0 +1,26 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+    color: white;
+    text-align: center;
+}
+.container {
+    margin-top: 100px;
+}
+.cta-btn {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 15px 30px;
+    font-size: 18px;
+    color: #fff;
+    background-color: #ffaa00;
+    border: none;
+    border-radius: 8px;
+    text-decoration: none;
+}
+.cta-btn:hover {
+    background-color: #ff8800;
+}
